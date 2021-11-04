@@ -1,7 +1,7 @@
 # WaterBnB Belt Reviewer
 Create a Spring applications to find places to swim and sleep.
 
-Features
+Features:
 
 Registration and Login with validations
 
